@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Adriano Lopes Gomes
+N:Gomes;Adriano;Lopes;;
+ORG:Vantiq
+TITLE:Senior Technical Director for APAC & Latam
+EMAIL;TYPE=WORK:agomes@vantiq.com
+TEL;TYPE=WORK,VOICE:+1 (971) 757-6725
+TEL;TYPE=WORK,VOICE,WHATSAPP,FACETIME:+55 (21) 96675-6990
+URL;TYPE=WORK:https://www.vantiq.com
+URL;TYPE=LINKEDIN:https://www.linkedin.com/in/adriano-lopes-gomes/
+PHOTO;VALUE=URI:https://media.licdn.com/dms/image/v2/D4D03AQHqagl_6Soa9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711831950532?e=1750896000&v=beta&t=q58kEYVMdGHb-Atuuoa01JX86Eg9w-K4oJFC-CFczpg
+END:VCARD
